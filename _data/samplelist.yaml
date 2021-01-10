@@ -2,10 +2,10 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: Introduction
-  url: index.html
+  url: /index.html
 
 - title: Yhteystiedot
-  url: contact.html
+  url: /contact.html
 
 - title: Yrityksille
-  url: companies.html
+  url: /companies.html
