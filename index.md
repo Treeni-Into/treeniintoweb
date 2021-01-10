@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Treeni-into hukassa?
 
 You can use the [editor on GitHub](https://github.com/vesaul/treeniintoweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 
 ```markdown
 Syntax highlighted code block
