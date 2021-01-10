@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-li.active a {
+.result li.active a {
 	color: lightgray;
 	cursor: default;
 }
