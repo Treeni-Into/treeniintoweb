@@ -1,3 +1,7 @@
+---
+layout: contact
+title : Information about us
+---
 ### Tietoja
 
 Olen Kuntosalivalmentaja, Hyvinvointivalmentaja lisensoitu Personal trainer ja Ravintovalmentaja Ansku Ulvi.  
