@@ -1,19 +1,21 @@
 ## Treeni-into hukassa?
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 
-Peruspaketti 3kk:
+```
+## Peruspaketti 3kk:
 
-Alkukartoitus
-Kuntotestaus, lepo VO2max, lihaskunto, liikkuvuus. 2 kpl (1projektin alussa ja 1 projektin lopussa)
-12 PT-tapaamista (50min)
-Kuntosaliohjelman
-Kotitreeniohjelman
-Harjoitussuunnitelman
-Ruoka-analyysin
-Kehonkoostumusmittauksen 4kpl (alkumittaus, 2 välimittausta, loppumittaus)
-Puhelin- ja sähköpostituki koko valmennuksen ajan
+- Alkukartoitus
+- Kuntotestaus, lepo VO2max, lihaskunto, liikkuvuus. 2 kpl (1projektin alussa ja 1 projektin lopussa)
+- 12 PT-tapaamista (50min)
+- Kuntosaliohjelman
+- Kotitreeniohjelman
+- Harjoitussuunnitelman
+- Ruoka-analyysin
+- Kehonkoostumusmittauksen 4kpl (alkumittaus, 2 välimittausta, loppumittaus)
+- Puhelin- ja sähköpostituki koko valmennuksen ajan
 
-Hinta: 249€/kk
+Hinta: **249€/kk**
+```
 Kevyt startti 3kk:
 
 Alkukartoitus
