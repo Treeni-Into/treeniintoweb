@@ -1,16 +1,15 @@
 ## Treeni-into hukassa?
 
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
-![Image](omakuva.jpg)
+![Image](omakuva4.jpg)
 
 ### Yrityksille
 
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+# Hinnasto
 ## Header 2
 ### Header 3
 
@@ -23,18 +22,12 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-HINNASTO:
 
-Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla 79€/h alv. 0%                    
-
-Ohjattu ryhmäliikuntatunti järjestämissämme tiloissa 89€/h alv. 0%
-
-Ohjattu kovatehoinen pikatreeni HIIT (30min) työpaikan tiloissa 69€ alv. 0%
-
-Ohjattu kovatehoinen HIIT (30 min) järjestämissämme tiloissa 79€ alv. 0%
-
-Ohjattu ja toiveiden mukaisesti räätälöity toiminnallinen pihatreeni 99€ alv. 0%
+- Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla **79€/h** alv. 0%                    
+- Ohjattu ryhmäliikuntatunti järjestämissämme tiloissa **89€/h** alv. 0%
+- Ohjattu kovatehoinen pikatreeni HIIT (30min) työpaikan tiloissa **69€** alv. 0%
+- Ohjattu kovatehoinen HIIT (30 min) järjestämissämme tiloissa **79€** alv. 0%
+- Ohjattu ja toiveiden mukaisesti räätälöity toiminnallinen pihatreeni **99€** alv. 0%
 
 Firman tiloissa tapahtuvien ohjausten hinnat koskee lähellä Kokkolan keskustaa olevia yrityksiä. Muut sopimuksen mukaan.
 
