@@ -1,5 +1,4 @@
 ## Treeni-into hukassa?
-[Link](contact.html)
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 ![Image](omakuva4.jpg)
 
