@@ -34,7 +34,13 @@
 	  {% endif %}
 	{% endif %}
 		</section>
-		<a href="contact.html">Yhteystiedot</a>
+		<!-- <a href="contact.html">Yhteystiedot</a> -->
+		<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+		<ul>
+		   {% for item in site.data.samplelist.docs %}
+			  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		   {% endfor %}
+		</ul>
 		<hr>
 		<section id="main_content">
 		  {{ content }}

@@ -1,10 +1,9 @@
 ---
 layout: contact
-title : Information about us
 ---
 ### Tietoja
 
-Olen Kuntosalivalmentaja, Hyvinvointivalmentaja lisensoitu Personal trainer ja Ravintovalmentaja Ansku Ulvi.  
+Olen koulutettu Personal Trainer, Kuntosalivalmentaja, Hyvinvointivalmentaja ja Ravintovalmentaja Ansku Ulvi.
 Perustin Treeni-innon intohimosta liikuntaan ja halusta auttaa ihmisiä voimaan hyvin. 
 
 Olen neljän lapsen äiti, joten tiedän miltä liikunta tuntuu raskausaikana ja sen jälkeen. Kuinka päästään takaisin huippukuntoon. 
