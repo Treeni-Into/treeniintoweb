@@ -1,7 +1,6 @@
 ## Treeni-into hukassa?
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 
-```
 ## Peruspaketti 3kk:
 
 - Alkukartoitus
@@ -61,7 +60,6 @@ Hinta: 70€
 - PT tapaaminen kaverin kanssa 1h 15min
 
 Hinta: 80€
-```
 
 Mikäli haluat räätälöidyn tarjouksen, jotain enemmän tai vähemmän. Varaa maksuton konsultaatiotapaaminen (30 min) mietitään sinulle oikea ratkaisu.
 

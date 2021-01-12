@@ -16,7 +16,6 @@ Jos haluat jotain mitä emme tässä hoksaneet tarjota, ole yhteydessä!
 
 Räätälöidään vaikka teille sopiva TYKY-tunti. 
 
-
 Onko työporukkasi päättänyt tempaista kilot kuriin?
 
 Painonhallintaryhmä 5-10 hlölle.
