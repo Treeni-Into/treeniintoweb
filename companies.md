@@ -2,10 +2,6 @@
 
 Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa enemmän?   Elämäntapamuutos mielessä? Oletko tyytyväinen kehoosi? Onko sinulla ylipainoa? Aina nälkä tai ähky? Haluaisitko löytää treeni-innon? Lisätunteja vuorokauteen en pysty antamaan. Kaikesta muusta selviämme yhdessä.
 
-```markdown
-
-[Link](url) and ![Image](src)
-
 - Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla **79€/h**                 
 - Ohjattu ryhmäliikuntatunti järjestämissämme tiloissa **89€/h**
 - Ohjattu kovatehoinen HIIT (30min) työpaikan tiloissa **69€**
@@ -38,5 +34,3 @@ Painonhallintaryhmä 5-10 hlölle.
 -Ruokapäiväkirjan analyysin, sekä neuvoja parempaan ravitsemukseen.
 
 -Päivittäinen tuki koko projektin ajan.
-
-```
