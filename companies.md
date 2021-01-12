@@ -4,18 +4,6 @@ Haluaisitko lisää tunteja vuorokauteen? Väsyttääkö? Haluaisitko jaksaa ene
 
 ```markdown
 
-# Hinnasto
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 
 - Ohjattu ryhmäliikuntatunti työpaikan tiloissa tai pihalla **79€/h**                 
